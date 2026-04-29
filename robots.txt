@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://snbm.vercel.app/sitemap.xml
